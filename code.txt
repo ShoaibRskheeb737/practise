@@ -8,3 +8,6 @@ print("drink water")
 if thirsty=="no"
 print("thank you")
 else:
+findroots=input("searching for roots?")
+if findroots=="yes"
+print("enter the desired lcation")
