@@ -7,3 +7,4 @@ if thirsty=="yes"
 print("drink water")
 if thirsty=="no"
 print("thank you")
+else:
