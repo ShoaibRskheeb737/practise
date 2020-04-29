@@ -9,3 +9,7 @@ else:
 needhelp=input("do you need any help")
 if needhelp=="no"
 print("thankyou")
+else:
+needhelp=input("do you need any help")
+if neefhelp=="yes"
+print("happy helping you")
