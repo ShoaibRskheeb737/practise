@@ -11,3 +11,7 @@ else:
 findroots=input("searching for roots?")
 if findroots=="yes"
 print("enter the desired lcation")
+else:
+shopping=input("online grocery")
+if shopping=="yes"
+print("go to amazon grocery") 
