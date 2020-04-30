@@ -5,13 +5,26 @@ else:
 thirsty=input("are you thirsty")
 if thirsty=="yes"
 print("drink water")
+test
+else:
+needhelp=input("do you need any help")
+if needhelp=="no"
+print("thankyou")
+else:
+needhelp=input("do you need any help")
+if neefhelp=="yes"
+print("happy helping you")
 if thirsty=="no"
 print("thank you")
 else:
 findroots=input("searching for roots?")
 if findroots=="yes"
 print("enter the desired lcation")
+
 else:
 shopping=input("online grocery")
 if shopping=="yes"
 print("go to amazon grocery") 
+
+
+
