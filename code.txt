@@ -1,4 +1,7 @@
+
+
 I made changes again
+
 hungry=input("are you hungry?")
 if hungry=="yes":
 print("eat samosa")
@@ -26,6 +29,8 @@ else:
 shopping=input("online grocery")
 if shopping=="yes"
 print("go to amazon grocery") 
+else:
+picni=input("no going out corona")
 
 
 
